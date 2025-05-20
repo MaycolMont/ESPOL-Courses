@@ -1,0 +1,6 @@
+[INFO] 2024-12-18 10:00:01 - Directorio 'proyecto' creado exitosamente.
+[INFO] 2024-12-18 10:00:02 - Archivo 'datos.txt' creado y escrito.
+[INFO] 2024-12-18 10:00:03 - Archivo 'logs.txt' creado y escrito.
+[INFO] 2024-12-18 10:00:04 - Listando archivos en el directorio 'proyecto'.
+[INFO] 2024-12-18 10:00:05 - Se encontraron 2 archivos: datos.txt, logs.txt.
+[INFO] 2024-12-18 10:00:06 - Programa finalizado correctamente.

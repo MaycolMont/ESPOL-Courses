@@ -1,0 +1,3 @@
+Nombre: maycol
+Identificación: aasdf
+Curso: POO

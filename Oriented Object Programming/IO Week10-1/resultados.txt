@@ -1,0 +1,11 @@
+Resultados del análisis de calificaciones
+
+Promedio de calificaciones: 84.33333333333333
+
+Estudiante con la calificación más alta:
+Nombre: María Gómez
+Calificación: 90.0
+
+Estudiante con la calificación más alta:
+Nombre: Pedro Ruiz
+Calificación: 78.0
